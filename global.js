@@ -47,9 +47,9 @@ global.keyApi = {
   "https://pencarikode.xyz": "pais",
   "https://leyscoders-api.herokuapp.com": "dappakntlll",
 };
-global.packname = "Vlkyre:v5";
-global.author = "KryKenz";
-global.name = "Vlkyre:v5";
+global.packname = "Luminous TL";
+global.author = "ryuureiss";
+global.name = "Arc-En-CieL";
 ("◎☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱[ νℓкуяє вσт ву кяукєηz ]☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱☱◎");
 var Log = (value) => {
   var log = false;
